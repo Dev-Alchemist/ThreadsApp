@@ -30,7 +30,7 @@
     "md5": "^2.2.1",
     "mongodb": "^3.5.7",
     "nodemon": "^2.0.4",
-    "sanitize-html": "^1.24.0",
+    "sanitize-html": "^2.3.2",
     "socket.io": "^2.4.0",
     "validator": "^13.0.0",
     "webpack": "^4.43.0",
